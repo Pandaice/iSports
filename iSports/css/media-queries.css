@@ -1,0 +1,151 @@
+/***********************************************************************************
+    1270
+*** ********************************************************************************/
+@media screen and (max-width: 1400px) {
+    .mask {
+        visibility:hidden;
+    }
+        .mask .xmsq {
+             visibility:hidden;
+        }
+        .mask .xmdj {
+            visibility:hidden;
+        }
+        .mask .hdyy {
+            visibility: hidden;
+        }
+        .mask a{
+            visibility: hidden;
+        }
+}
+
+/************************************************************************************
+smaller than 980
+*************************************************************************************/
+@media screen and (max-width: 980px) {
+
+    .share {
+  height: 30px;
+  position: fixed;
+  left: 1%;
+  top: 30%;
+  z-index: 60;
+  width: 100px;
+  visibility:hidden;
+  }
+    .share a.we {
+background: url(../images/add_05.jpg);
+visibility:hidden;
+}
+    .share a.re {
+background: url(../images/share_03.jpg);
+visibility:hidden;
+}
+    .share a.wa {
+background: url(../images/wa_03.jpg);
+visibility:hidden;
+}
+     .bottom a {
+        visibility: hidden;
+    }
+    .bottom p{
+        visibility: hidden;
+    }
+        .bottom #close_img {
+      visibility:hidden;
+    }
+            #right_bottom{
+        visibility: hidden;
+    }
+           
+}
+
+/************************************************************************************
+smaller than 650
+*************************************************************************************/
+@media screen and (max-width: 700px) {
+
+	/* header */
+	#header {
+		height: auto;
+	}
+
+
+    .logo {
+position: fixed;
+top: 5%;
+left: 10%;
+z-index: 80;
+width: 5%;
+visibility:hidden;
+}
+    
+    #left {
+        visibility: hidden;
+    }
+}
+
+/************************************************************************************
+smaller than 560
+*************************************************************************************/
+@media screen and (max-width: 600px) {
+
+	/* disable webkit text size adjust (for iPhone) */
+	html {
+		-webkit-text-size-adjust: none;
+	}
+
+
+}
+
+@media screen and (max-height: 500px) {
+    #right_bottom{
+        visibility: hidden;
+    }
+
+     #left {
+        visibility: hidden;
+    }
+      .logo {
+position: fixed;
+top: 5%;
+left: 2%;
+z-index: 80;
+width: 5%;
+visibility:hidden;
+}
+    .bottom #close_img {
+      visibility:hidden;
+    }
+       .share a.we {
+background: url(../images/add_05.jpg);
+visibility:hidden;
+}
+    .share a.re {
+background: url(../images/share_03.jpg);
+visibility:hidden;
+}
+    .share a.wa {
+        background: url(../images/wa_03.jpg);
+        visibility: hidden;
+    }
+    .bottom a {
+        visibility: hidden;
+    }
+    .bottom p{
+        visibility: hidden;
+    }
+     .mask {
+        visibility:hidden;
+    }
+     .mask .xmsq {
+             visibility:hidden;
+        }
+        .mask .xmdj {
+            visibility:hidden;
+        }
+        .mask .hdyy {
+            visibility: hidden;
+        }
+}
+

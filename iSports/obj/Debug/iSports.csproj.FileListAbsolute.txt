@@ -1,0 +1,142 @@
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\csc.exe
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\vbc.exe
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\VBCSCompiler.exe
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\iSports.dll.config
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\iSports.dll
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\iSports.pdb
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\obj\Debug\iSports.csprojResolveAssemblyReference.cache
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\obj\Debug\iSports.dll
+c:\users\bin\documents\visual studio 2015\Projects\iSports\iSports\obj\Debug\iSports.pdb
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\csc.exe
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\vbc.exe
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\VBCSCompiler.exe
+C:\Users\№\Desktop\iSports\iSports\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\№\Desktop\iSports\iSports\bin\iSports.dll.config
+C:\Users\№\Desktop\iSports\iSports\bin\iSports.dll
+C:\Users\№\Desktop\iSports\iSports\bin\iSports.pdb
+C:\Users\№\Desktop\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\№\Desktop\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\№\Desktop\iSports\iSports\obj\Debug\iSports.csprojResolveAssemblyReference.cache
+C:\Users\№\Desktop\iSports\iSports\obj\Debug\iSports.dll
+C:\Users\№\Desktop\iSports\iSports\obj\Debug\iSports.pdb
+C:\Users\№\Desktop\iSports\iSports\bin\MySql.Data.dll
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\csc.exe
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\vbc.exe
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bin\Desktop\iSports\iSports\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bin\Desktop\iSports\iSports\bin\iSports.dll.config
+C:\Users\Bin\Desktop\iSports\iSports\bin\iSports.dll
+C:\Users\Bin\Desktop\iSports\iSports\bin\iSports.pdb
+C:\Users\Bin\Desktop\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bin\Desktop\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bin\Desktop\iSports\iSports\obj\Debug\iSports.csprojResolveAssemblyReference.cache
+C:\Users\Bin\Desktop\iSports\iSports\obj\Debug\iSports.dll
+C:\Users\Bin\Desktop\iSports\iSports\obj\Debug\iSports.pdb
+G:\iSports\iSports\bin\roslyn\csc.exe
+G:\iSports\iSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\iSports\iSports\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\iSports\iSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\iSports\iSports\bin\roslyn\System.Collections.Immutable.dll
+G:\iSports\iSports\bin\roslyn\System.Reflection.Metadata.dll
+G:\iSports\iSports\bin\roslyn\vbc.exe
+G:\iSports\iSports\bin\roslyn\VBCSCompiler.exe
+G:\iSports\iSports\bin\roslyn\VBCSCompiler.exe.config
+G:\iSports\iSports\bin\iSports.dll.config
+G:\iSports\iSports\bin\iSports.dll
+G:\iSports\iSports\bin\iSports.pdb
+G:\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\iSports\iSports\bin\MySql.Data.dll
+G:\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\iSports\iSports\obj\Debug\iSports.csprojResolveAssemblyReference.cache
+G:\iSports\iSports\obj\Debug\iSports.dll
+G:\iSports\iSports\obj\Debug\iSports.pdb
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\csc.exe
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\System.Collections.Immutable.dll
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\System.Reflection.Metadata.dll
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\vbc.exe
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\VBCSCompiler.exe
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\roslyn\VBCSCompiler.exe.config
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\iSports.dll.config
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\iSports.dll
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\iSports.pdb
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\obj\Debug\iSports.csprojResolveAssemblyReference.cache
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\obj\Debug\iSports.dll
+E:\学习资料\大二上\Web C#\期末项目\谢斌_王承_李靖东_王迎晓_iSports\iSports\iSports\obj\Debug\iSports.pdb
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\csc.exe
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\vbc.exe
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\VBCSCompiler.exe
+C:\Users\XieBin\Desktop\iSports\iSports\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\XieBin\Desktop\iSports\iSports\bin\iSports.dll.config
+C:\Users\XieBin\Desktop\iSports\iSports\bin\iSports.dll
+C:\Users\XieBin\Desktop\iSports\iSports\bin\iSports.pdb
+C:\Users\XieBin\Desktop\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\XieBin\Desktop\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\XieBin\Desktop\iSports\iSports\obj\Debug\iSports.csprojResolveAssemblyReference.cache
+C:\Users\XieBin\Desktop\iSports\iSports\obj\Debug\iSports.dll
+C:\Users\XieBin\Desktop\iSports\iSports\obj\Debug\iSports.pdb
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\csc.exe
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\System.Collections.Immutable.dll
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\System.Reflection.Metadata.dll
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\vbc.exe
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\VBCSCompiler.exe
+E:\学习资料\大二下\UML\iSports\iSports\bin\roslyn\VBCSCompiler.exe.config
+E:\学习资料\大二下\UML\iSports\iSports\bin\iSports.dll.config
+E:\学习资料\大二下\UML\iSports\iSports\bin\iSports.dll
+E:\学习资料\大二下\UML\iSports\iSports\bin\iSports.pdb
+E:\学习资料\大二下\UML\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\学习资料\大二下\UML\iSports\iSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\学习资料\大二下\UML\iSports\iSports\obj\Debug\iSports.csprojResolveAssemblyReference.cache
+E:\学习资料\大二下\UML\iSports\iSports\obj\Debug\iSports.dll
+E:\学习资料\大二下\UML\iSports\iSports\obj\Debug\iSports.pdb
